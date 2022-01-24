@@ -16,3 +16,4 @@ public class Scratch {
         System.out.println(remove(name));
     }
     }
+
