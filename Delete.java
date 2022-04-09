@@ -1,3 +1,4 @@
+//delete a node in tree
 import java.util.Scanner;
 
 public class Delete {
